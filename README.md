@@ -1,6 +1,6 @@
 ![logo](https://github.com/HARDY-X4/HARDY-X4/blob/17967c6cd69e66539b254fc6de0c3e1b93798d99/banner%20img11.png)
 <h1 align="center">Hi 👋, I'm Shreyash Hubale</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Aspiring Java Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
