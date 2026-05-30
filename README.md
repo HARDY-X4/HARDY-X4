@@ -6,9 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardy-x4&label=Profile%20views&color=0e75b6&style=flat" alt="hardy-x4" /> </p>
 
-- 🔭 I’m currently studying **Artificial Intelligence and Data Science**
+- 🎓 I’m currently pursuing **B.E. in Artificial Intelligence and Data Science**
 
-- 🌱 I’m currently learning **DSA in Java and Full Stack Developer**
+- 🔭 I’m working on **AI/ML and Data Analytics projects**
+
+- 🌱 I’m currently learning **Machine Learning, Data Analytics, Power BI, SQL, and Full Stack Development**
+
+- 💡 Interested in **Artificial Intelligence, Data Science, Machine Learning, and Business Intelligence**
 
 - 📫 How to reach me **hubaleshreyash@gmail.com**
 
